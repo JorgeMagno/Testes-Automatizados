@@ -4,16 +4,18 @@
 
 ### Status
 <h4 align="center"> 
-🚧 Em desenvolvimento...  🚧
+:ok:Finalizado:ok:
 </h4>
 
 ### Pré-requisitos
 - [Eclipse IDE](https://www.eclipse.org/downloads/) para criar os códigos de teste bem como o que será testado.
-- JUnit para realizar os testes unitários.
+- JUnit para realizar os testes unitários no TDD.
+- [Ruby](https://www.ruby-lang.org/pt/) e [Cucumber](https://cucumber.io/) para realizar os testes de BDD.
+- [Selenium](https://www.selenium.dev/documentation/webdriver/) para os testes funcionais.
 
 
 ### 🛠 Tecnologias
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /><img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /><img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" /><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
 ### Autor
 Feito por Jorge Magno.
 
