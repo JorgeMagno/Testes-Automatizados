@@ -7,6 +7,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="lib" path="/home/jorge/Selenium/lib/async-http-client-2.12.3.jar"/>
 	<classpathentry kind="lib" path="/home/jorge/Selenium/lib/async-http-client-netty-utils-2.12.3.jar"/>
 	<classpathentry kind="lib" path="/home/jorge/Selenium/lib/auto-common-1.2.1.jar"/>
